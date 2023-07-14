@@ -1,2 +1,3 @@
 rootProject.name = 'spring-tutorial'
+include 'spring-httpclient'
 
