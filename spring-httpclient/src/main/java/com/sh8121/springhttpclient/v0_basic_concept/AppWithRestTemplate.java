@@ -1,4 +1,4 @@
-package com.sh8121.springhttpclient.v0_httpclient_basic;
+package com.sh8121.springhttpclient.v0_basic_concept;
 
 import java.time.LocalDateTime;
 import org.springframework.web.client.RestTemplate;
