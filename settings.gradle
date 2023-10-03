@@ -1,3 +1,4 @@
 rootProject.name = 'spring-tutorial'
 include 'spring-httpclient'
+include 'spring-ioccontainer'
 
