@@ -8,10 +8,10 @@ import reactor.core.publisher.Flux;
 public class App {
 
     public static void main(String[] args) {
-//        SpringApplication.run(App.class, args);
+        SpringApplication.run(App.class, args);
 
-        Flux.just(1,2,3,4)
-                .log()
-                .map(i -> i * 2);
+//        Flux.just(1,2,3,4)
+//                .log()
+//                .map(i -> i * 2);
     }
 }
